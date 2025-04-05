@@ -11,3 +11,14 @@
 	3、承接相关定制开发，既能解决小众需求，也能赚点外快
 
 	联系邮箱：2143213151@qq.com
+
+（注意：使用本ui需要提前下载FFmpeg并配置环境变量path；或者可以直接把下载好的FFmpeg解压后，把里面bin文件的三个文件ffmpeg.exe、ffplay.exe、ffprobe.exe和本程序放在同一个文件夹即可）
+
+FFmpeg v2.0
+![image](https://github.com/user-attachments/assets/1b531c68-df2a-4296-985b-9044251ffb1e)
+![image](https://github.com/user-attachments/assets/f97b554f-443a-4093-a1ab-ef434b65ba66)
+
+FFmpeg v1.0
+![image](https://github.com/user-attachments/assets/3c33ecb7-3865-4a41-a75e-929e11d720ab)
+![image](https://github.com/user-attachments/assets/6ccfebb2-6fca-4c62-8516-5fc5fb22b98c)
+![image](https://github.com/user-attachments/assets/1492bc02-5405-456a-8a03-7f0144471794)
