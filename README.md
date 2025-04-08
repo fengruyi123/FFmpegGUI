@@ -15,17 +15,16 @@
 
 （注意：使用本ui需要提前下载FFmpeg并配置环境变量path；或者可以直接把下载好的FFmpeg解压后，把里面bin文件的三个文件ffmpeg.exe、ffplay.exe、ffprobe.exe和本程序放在同一个文件夹即可）
 
-感谢你的支持！😊 如果我的作品对你有帮助，欢迎通过赞赏码支持我。你的鼓励是我持续改进的动力！
-赞赏码：
-
-![image](https://github.com/user-attachments/assets/edbe842e-5f62-4785-b90e-203969926e90)
-
 
 FFmpegGUI v2.0 Beta1
 
 ![image](https://github.com/user-attachments/assets/1b531c68-df2a-4296-985b-9044251ffb1e)
 ![image](https://github.com/user-attachments/assets/f97b554f-443a-4093-a1ab-ef434b65ba66)![image](https://github.com/user-attachments/assets/1e012538-5f02-4e1c-85dc-ab0134d4dfca)
 
+感谢你的支持！😊 如果我的作品对你有帮助，欢迎通过赞赏码支持我。你的鼓励是我持续改进的动力！
+赞赏码：
+
+![image](https://github.com/user-attachments/assets/edbe842e-5f62-4785-b90e-203969926e90)
 
 FFmpeg v1.0
 
