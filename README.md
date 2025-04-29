@@ -18,7 +18,7 @@
 
 FFmpegGUI v2.0 
 
-![image](https://github.com/user-attachments/assets/3e26a966-0ea4-4584-b578-bd937cfd0bc9)
+![image](https://github.com/user-attachments/assets/ec32fe38-3256-4163-868f-cd8ccab2196c)
 
 
 感谢你的支持！😊 如果我的作品对你有帮助，欢迎通过赞赏码支持我。你的鼓励是我持续改进的动力！
@@ -26,8 +26,3 @@ FFmpegGUI v2.0
 
 ![image](https://github.com/user-attachments/assets/edbe842e-5f62-4785-b90e-203969926e90)
 
-FFmpeg v1.0
-
-![image](https://github.com/user-attachments/assets/3c33ecb7-3865-4a41-a75e-929e11d720ab)
-![image](https://github.com/user-attachments/assets/6ccfebb2-6fca-4c62-8516-5fc5fb22b98c)
-![image](https://github.com/user-attachments/assets/1492bc02-5405-456a-8a03-7f0144471794)
