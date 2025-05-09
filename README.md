@@ -45,3 +45,5 @@
 
 如果本项目对您有所帮助，不妨打赏一下，您的支持是我最大的动力：
 ![image](https://github.com/user-attachments/assets/9731ecc8-3662-4b8c-84eb-23db13de9033)
+下载：
+https://github.com/fengruyi123/FFmpegGUI/releases
