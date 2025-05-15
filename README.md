@@ -16,15 +16,8 @@ FFmpegGUI V3.3.6已实现功能：视频转换（GPU加速）；音频转换；�
 
 （注意：使用本ui需要提前下载FFmpeg并配置环境变量path；或者可以直接把下载好的FFmpeg解压后，把里面bin文件的三个文件ffmpeg.exe、ffplay.exe、ffprobe.exe和本程序放在同一个文件夹即可）
 
+![image](https://github.com/user-attachments/assets/8d419922-b771-4d43-9581-a9b2100a1acd)
 
-![image](https://github.com/user-attachments/assets/7f012a3b-515d-43f7-b556-0b8c7be859a9)
-![image](https://github.com/user-attachments/assets/de515c3b-eca7-406b-a498-5977582f2b57)
-![image](https://github.com/user-attachments/assets/234c8147-6aac-48ed-a450-619de88ed015)
-![image](https://github.com/user-attachments/assets/a30d10be-95cf-4bdd-8917-a4e5d4ba89f0)
-![image](https://github.com/user-attachments/assets/af315aac-0c47-4e31-bc51-15a2b00c0193)
-![image](https://github.com/user-attachments/assets/b4d0b936-ef9d-4904-b22a-6a37cfc07905)
-![image](https://github.com/user-attachments/assets/77b330dc-bfe1-413d-a3a6-b51231c0cb6c)
-![image](https://github.com/user-attachments/assets/6fd95a22-5601-4d4b-97cf-b1e9aaaa999b)
 
 如果本项目对您有所帮助，不妨打赏一下，您的支持是我最大的动力：
 ![image](https://github.com/user-attachments/assets/9731ecc8-3662-4b8c-84eb-23db13de9033)
