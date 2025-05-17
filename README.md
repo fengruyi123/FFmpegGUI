@@ -14,7 +14,9 @@ FFmpegGUI 已实现功能：视频转换（GPU加速）；音频转换；视音�
 
  	联系邮箱：2143213151@qq.com
 
-（注意：使用本ui需要提前下载FFmpeg并配置环境变量path；或者可以直接把下载好的FFmpeg解压后，把里面bin文件的三个文件ffmpeg.exe、ffplay.exe、ffprobe.exe和本程序放在同一个文件夹即可）
+注意：
+【basic版本】需要自己手动配置ffmpeg环境
+【full版本】自带ffmpeg依赖（不懂的人无脑使用此版本）
 
 ![image](https://github.com/user-attachments/assets/8d419922-b771-4d43-9581-a9b2100a1acd)
 
