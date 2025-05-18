@@ -18,7 +18,7 @@ FFmpegGUI 已实现功能：视频转换（GPU加速）；音频转换；视音�
 
 【basic版本】需要自己手动配置ffmpeg环境
 
-【full版本】自带ffmpeg依赖（不懂的人无脑使用此版本）
+【full版本】自带ffmpeg依赖（不会配置的使用此版本）
 
 ![image](https://github.com/user-attachments/assets/8d419922-b771-4d43-9581-a9b2100a1acd)
 
