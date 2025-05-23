@@ -36,11 +36,11 @@
 | **Full版** | 内置FFmpeg依赖/解压即用 | 普通用户 |
 
 ## 🛠 使用指南
-1.下载对应版本（[github](https://github.com/fengruyi123/FFmpegGUI/releases)）
-2.下载对应版本（[gitee](https://gitee.com/fengruyi123/ffmpeg-gui/releases)）
-3.下载对应版本（[蓝奏云下载](https://wwhr.lanzoul.com/b0ulal6ba) 密码: `fit6`）
-4.【Full版本】版解压即用，【Basic版本】版需先配置FFmpeg环境变量
-5.选择功能模块 → 设置参数 → 批量添加文件 → 开始处理
+1. 下载最新版本（[github下载](https://github.com/fengruyi123/FFmpegGUI/releases)）
+2. 下载最新版本（[gitee下载](https://gitee.com/fengruyi123/ffmpeg-gui/releases)）
+3. 下载最新版本（[蓝奏云下载](https://wwhr.lanzoul.com/b0ulal6ba) 密码: `fit6`）
+4. 【Full版本】版解压即用，【Basic版本】版需先配置FFmpeg环境变量
+5. 选择功能模块 → 设置参数 → 批量添加文件 → 开始处理
 
 ## 💌 支持与反馈
 - 问题反馈：2143213151@qq.com（同QQ）  
