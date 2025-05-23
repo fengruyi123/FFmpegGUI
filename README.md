@@ -1,6 +1,5 @@
+![image](https://github.com/user-attachments/assets/c9cc9033-0676-4ef9-bede-1611039ee46d)
 # FFmpegGUI - 轻量级视频处理工具
-
-![FFmpegGUI Logo](https://via.placeholder.com/150) *(建议添加实际logo图片)*
 
 ## 📌 项目背景
 因市面上视频剪辑软件普遍功能臃肿、操作复杂，为解决批量视频处理需求，特开发此基于FFmpeg的轻量化GUI工具。专注高频核心功能，提供一键式操作体验。
@@ -11,8 +10,7 @@
 - 格式转换（支持GPU加速）
 - 视频切割（支持GPU加速）
 - 倍速处理（支持GPU加速）
-- 关键帧提取
-- 流信息查看
+- 视频提提取
 
 ✅ **音频处理**  
 - 格式转换
@@ -21,7 +19,8 @@
 
 ✅ **多媒体操作**  
 - 视频/音频/字幕合并（支持GPU加速）
-- 音视频分离
+- 视频/音频/字幕分离
+- 视音字流信息提取
 
 ### 🛠 开发计划
 ▢ 视频串联  
@@ -37,17 +36,20 @@
 | **Full版** | 内置FFmpeg依赖 | 普通用户 |
 
 ## 🛠 使用指南
-1. 下载对应版本（[蓝奏云下载](https://wwhr.lanzoul.com/b0ulal6ba) 密码: `fit6`）
-2. Full版解压即用，Basic版需先配置FFmpeg环境变量
-3. 选择功能模块 → 设置参数 → 批量添加文件 → 开始处理
+1.下载对应版本（[github](https://github.com/fengruyi123/FFmpegGUI/releases)）
+2.下载对应版本（[gitee](https://gitee.com/fengruyi123/ffmpeg-gui/releases)）
+3.下载对应版本（[蓝奏云下载](https://wwhr.lanzoul.com/b0ulal6ba) 密码: `fit6`）
+4.【Full版本】版解压即用，【Basic版本】版需先配置FFmpeg环境变量
+5.选择功能模块 → 设置参数 → 批量添加文件 → 开始处理
 
 ## 💌 支持与反馈
-- 问题反馈：2143213151@qq.com  
+- 问题反馈：2143213151@qq.com（同QQ）  
 - 欢迎提出需求建议或BUG报告  
-- 如果觉得好用，欢迎[打赏支持](https://example.com/donate) *(建议添加实际打码链接)*
+- 如果觉得好用，欢迎[打赏支持]
+![image](https://github.com/user-attachments/assets/6add528c-105e-47c2-a787-4ba45aecbeb5)
 
 ## 📜 免责声明
 本软件为个人开发作品，仅供学习交流使用。基于FFmpeg构建，请遵守相关开源协议。
 
 ---
-> ✨ **提示**：GPU加速功能需要硬件支持，处理前请确保关闭其他占用显卡
+> ✨ **提示**：GPU加速功能需要硬件支持，处理前请确保关闭其他占用显卡资源的程序
