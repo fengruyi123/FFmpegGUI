@@ -45,14 +45,17 @@
 2. 【Full版本】版解压即用，【Basic版本】版需先配置FFmpeg环境变量
 3. 选择功能模块 → 设置参数 → 批量添加文件 → 开始处理
 
-## 💌 支持与反馈
+## 📢 支持与反馈
 - 发布地址：（[github]( https://github.com/fengruyi123/FFmpegGUI/tree/main)）（[gitee](https://gitee.com/fengruyi123/ffmpeg-gui)）  
-- 欢迎提出需求建议或BUG报告，问题反馈作者：2143213151@qq.com（同QQ）  
+- 欢迎提出需求建议或BUG报告，问题反馈作者：2143213151@qq.com（同QQ）
+- 微信公众号（加关注，不迷路）
+
+![image](https://github.com/user-attachments/assets/4550c102-94c8-4408-808f-0d18dd5c8a55)
+
 - 如果本项目对您有所帮助，不妨打赏一下，您的支持是我最大的动力
 
 ![image](https://github.com/user-attachments/assets/191d85d5-be6f-439a-9a26-67e19f9325d1)
 ![image](https://github.com/user-attachments/assets/dbd9bfe4-0549-4134-aabb-134e0cebd4de)
 
-## 📢 微信公众号（加关注，不迷路）
 
-![image](https://github.com/user-attachments/assets/4550c102-94c8-4408-808f-0d18dd5c8a55)
+
